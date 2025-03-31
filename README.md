@@ -17,4 +17,10 @@ This application is a 5 question Vanilla JavaScript quiz. Using a single stylesh
 - questions.Js simply holds an array with our questions. If someone wanted to change a question, or all of the questions, they would just have to go into this file and update the array to their liking
 - quizApp.js 
 # Code Explanations: 
- - 
+## index.html
+
+## styles.css
+
+## quizApp.js
+
+## questions.JS
